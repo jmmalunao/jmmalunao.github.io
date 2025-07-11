@@ -18,9 +18,8 @@ Bachelor of Science in Information Technology
 
 ### Work Experience
 Prosource Global BPO Inc.
+#### Projects
 - Admin Portal
 - Retailer Web App
 - Product Report Insights
 - Customer Onboarding Web App
-
-### Projects
